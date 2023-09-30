@@ -1,0 +1,24 @@
+/**
+  * @name darkpurple
+  * @author lxkiuby Aymeric_fr1
+  * @version 1.0.0
+  * @description Highly customized dark and purple theme for Discord Darkpurple by lxkiuby
+  * @authorId 1147600519347572797
+*/
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+
+:root {
+  --darkplus-bg: rgb(4, 0, 10);
+  --darkplus-bg2: rgb(4, 0, 10);
+  --darkpurple-sec: #250050;
+  --darkpurple-links: #250050;
+  --darkpurple-home-icon: url(https://cdn.discordapp.com/attachments/1153799803537469491/1157757611161165835/Sans_titre-4.png?ex=6519c54c&is=651873cc&hm=10fd1a1bff6ac489692992412c0c68fa4c4872bea117ac3157f8cfa1069bb8a2&);
+ --watermark-filter-invert: 0%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 3000%;
+  --watermark-filter-hue-rotate: 210deg;
+  --watermark-filter-brightness: 70%;
+  --watermark-filter-contrast: 200%;
+  --darkpurple-emoji-picker-color: 210deg;
+}
